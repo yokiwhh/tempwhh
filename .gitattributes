@@ -1,1 +1,2 @@
 cudnn1.rar filter=lfs diff=lfs merge=lfs -text
+cudnn2.rar filter=lfs diff=lfs merge=lfs -text
